@@ -1,6 +1,6 @@
-4edbae77d79c5f40ad242f4bfa6d8bb1 *DESCRIPTION
+41f9374ba3c4f88e43b0f1877d6b6202 *DESCRIPTION
 428b17ccb14c1d5593c086ef2330c2af *NAMESPACE
-0daf263e215d003db0a8ba3ba81f097d *NEWS.md
+50935c3b5007ef245f6d648f90a8739b *NEWS.md
 5c21fe9ebca31b76debb4ca12ab9d51d *R/abund_index.R
 4c06a3d095a34e5e737adfffc1fa830d *R/abundance.R
 ab2e626812352542c369dcc9d78d4817 *R/abundanceperquad2.R
@@ -21,11 +21,11 @@ b6bc9766694c551d79e408fd8082b8f6 *R/fgeo_topography.R
 fcab81555bc0ce3abc3ba9525f1cd1e8 *R/utils.R
 098bb772ba573eeca4eee74f669ec767 *README.md
 c338e35c3ebd83634bcefacdbd944c73 *inst/WORDLIST
-1f949f5a29434a9abb95509bab397ed8 *man/abundance.Rd
-8adf08109c503db85ee1ec6e1acf1444 *man/abundance_byyr.Rd
-243b11fc08bb2291b14ef60a8b24bd58 *man/fgeo.analyze-package.Rd
-f079412657fa99d9f75af2b403442a1a *man/fgeo_habitat.Rd
-962002a05392936dbac631bbf47c735f *man/fgeo_topography.Rd
+75e10e4bace91c841eaa83eaad58c4ac *man/abundance.Rd
+c08064f7b5e9083f00584870264aa3f9 *man/abundance_byyr.Rd
+1198be196a474228149e0d49c287d5ab *man/fgeo.analyze-package.Rd
+b2d35d93e9bd76478d693a9dbe2697bd *man/fgeo_habitat.Rd
+3134a83b68568cbc74dff7efb025d525 *man/fgeo_topography.Rd
 cb1e46f469cfbbbde29c8b5113e1d789 *man/figures/lifecycle-archived.svg
 c0d2e5a54f1fa4ff02bf9533079dd1f7 *man/figures/lifecycle-defunct.svg
 a1b8c987c676c16af790f563f96cbb1f *man/figures/lifecycle-deprecated.svg
@@ -36,10 +36,10 @@ c3978703d8f40f2679795335715e98f4 *man/figures/lifecycle-experimental.svg
 6902bbfaf963fbc4ed98b86bda80caa2 *man/figures/lifecycle-soft-deprecated.svg
 53b3f893324260b737b3c46ed2a0e643 *man/figures/lifecycle-stable.svg
 dd6974bc082c4d10da0a0b181a136d46 *man/pipe.Rd
-0e3a50a14079991bdb97e711973832ee *man/recruitment_ctfs.Rd
+8f37769790aa1aa141cc98d6a43470b7 *man/recruitment_ctfs.Rd
 f727d3c15c19247490b77b6702d404ea *man/reexports.Rd
 4f6e3544f555ca476fbaa6b5762c6c6a *man/summary.tt_df.Rd
-fd4589c1761be5e10f3090898ac05781 *man/tt_test.Rd
+9fc9a1ddc8d653ba952f6b10a7beb086 *man/tt_test.Rd
 6286c40603df000aaae222467ae8cd76 *tests/spelling.R
 2df646e6dd79b5b0d166b6167812ef64 *tests/testthat.R
 ed5979bd4d98b22d29742684a272ba76 *tests/testthat/class2.rds
@@ -79,7 +79,7 @@ e7c835475dbc005a05cf0e77b24fbc7c *tests/testthat/stem.rds
 d56dc472ecf34a9389911c49d734c4dc *tests/testthat/test-abundance.R
 d6d770498e880243f270177c9b0826fc *tests/testthat/test-abundanceperquad2.R
 c9f3e9e0cfaa51f0bf6b6b6a615cb211 *tests/testthat/test-add_cluster.R
-5f15f3d4dd5c8746be6df9e94a193a29 *tests/testthat/test-as_tibble.R
+07f7667c39cf457d66d95d6e5acdf535 *tests/testthat/test-as_tibble.R
 7a0c591f85c73f70ee4a10f6d8726dfe *tests/testthat/test-byyr.R
 0279851cac20d0bd41a67177ee8e0357 *tests/testthat/test-check_crucial_names.R
 2dd8283fc1e6f99d8318d3efbebc795b *tests/testthat/test-data-tian_tong_elev.csv
