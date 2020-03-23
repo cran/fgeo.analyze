@@ -1,6 +1,6 @@
 Package: fgeo.analyze
 Title: Analyze ForestGEO Data
-Version: 1.1.12
+Version: 1.1.13
 Authors@R: 
     c(person(given = "Mauro",
              family = "Lepore",
@@ -71,7 +71,7 @@ Language: en-US
 LazyData: true
 RoxygenNote: 7.1.0
 NeedsCompilation: no
-Packaged: 2020-03-15 13:30:21 UTC; mauro
+Packaged: 2020-03-23 14:11:43 UTC; mauro
 Author: Mauro Lepore [aut, ctr, cre] (<https://orcid.org/0000-0002-1986-7988>),
   Gabriel Arellano [aut, rev],
   Richard Condit [aut],
@@ -85,4 +85,4 @@ Author: Mauro Lepore [aut, ctr, cre] (<https://orcid.org/0000-0002-1986-7988>),
   CTFS-ForestGEO [cph]
 Maintainer: Mauro Lepore <maurolepore@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-03-15 13:50:02 UTC
+Date/Publication: 2020-03-23 14:50:05 UTC

@@ -1,6 +1,6 @@
-41f9374ba3c4f88e43b0f1877d6b6202 *DESCRIPTION
+3112e1b38061f50c84d2eec610168d28 *DESCRIPTION
 428b17ccb14c1d5593c086ef2330c2af *NAMESPACE
-50935c3b5007ef245f6d648f90a8739b *NEWS.md
+2bfc3c43a5da85481c67de2901f0e502 *NEWS.md
 5c21fe9ebca31b76debb4ca12ab9d51d *R/abund_index.R
 4c06a3d095a34e5e737adfffc1fa830d *R/abundance.R
 ab2e626812352542c369dcc9d78d4817 *R/abundanceperquad2.R
@@ -19,7 +19,7 @@ b6bc9766694c551d79e408fd8082b8f6 *R/fgeo_topography.R
 5aa3158293f6fe72cdd8dea096c18f26 *R/summary.R
 6e9bd1266e8938b6977535d53adb055d *R/tt_test.R
 fcab81555bc0ce3abc3ba9525f1cd1e8 *R/utils.R
-098bb772ba573eeca4eee74f669ec767 *README.md
+9b015ea7ecca2f7f736898aebe6b851e *README.md
 c338e35c3ebd83634bcefacdbd944c73 *inst/WORDLIST
 75e10e4bace91c841eaa83eaad58c4ac *man/abundance.Rd
 c08064f7b5e9083f00584870264aa3f9 *man/abundance_byyr.Rd
@@ -79,7 +79,7 @@ e7c835475dbc005a05cf0e77b24fbc7c *tests/testthat/stem.rds
 d56dc472ecf34a9389911c49d734c4dc *tests/testthat/test-abundance.R
 d6d770498e880243f270177c9b0826fc *tests/testthat/test-abundanceperquad2.R
 c9f3e9e0cfaa51f0bf6b6b6a615cb211 *tests/testthat/test-add_cluster.R
-07f7667c39cf457d66d95d6e5acdf535 *tests/testthat/test-as_tibble.R
+bf0fced9653e28bb293c90f486ac3a7a *tests/testthat/test-as_tibble.R
 7a0c591f85c73f70ee4a10f6d8726dfe *tests/testthat/test-byyr.R
 0279851cac20d0bd41a67177ee8e0357 *tests/testthat/test-check_crucial_names.R
 2dd8283fc1e6f99d8318d3efbebc795b *tests/testthat/test-data-tian_tong_elev.csv
@@ -90,6 +90,6 @@ aae3765469390da8a751a01dbed5f5c6 *tests/testthat/test-fill.dimension.R
 48ce5272f866811101bed7102078fd37 *tests/testthat/test-gather_mat.R
 fc08ac144d0b5bc2316e2a990d79a4c3 *tests/testthat/test-insensitive.R
 97efc5ef4ab75422a833bb9752525a89 *tests/testthat/test-refactoring.R
-fdc7593e90ce30faf152d9b6f9fab747 *tests/testthat/test-summary.R
+9fab3366720371e9f9b4102777b920a5 *tests/testthat/test-summary.R
 276aadf97f0c187515094ebe9071efff *tests/testthat/test-tt_test.R
 557a06aa336af6a50af07780c92b2b6b *tests/testthat/test-utils.R
