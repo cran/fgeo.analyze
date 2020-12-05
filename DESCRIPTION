@@ -1,6 +1,6 @@
 Package: fgeo.analyze
 Title: Analyze ForestGEO Data
-Version: 1.1.13
+Version: 1.1.14
 Authors@R: 
     c(person(given = "Mauro",
              family = "Lepore",
@@ -53,7 +53,7 @@ Description: To help you access, transform, analyze, and
     topography, demography, and biomass. It also includes a torus
     translation test to determine habitat associations of tree species as
     described by Zuleta et al. (2018) <doi:10.1007/s11104-018-3878-0>. To
-    learn more about ForestGEO visit <http://www.forestgeo.si.edu/>.
+    learn more about ForestGEO visit <https://forestgeo.si.edu/>.
 License: GPL-3
 URL: https://github.com/forestgeo/fgeo.analyze
 BugReports: https://github.com/forestgeo/fgeo.analyze/issues
@@ -69,9 +69,9 @@ Suggests: covr (>= 3.2.1), fgeo.plot (>= 1.1.8), fgeo.x (>= 1.1.3),
 Encoding: UTF-8
 Language: en-US
 LazyData: true
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2020-03-23 14:11:43 UTC; mauro
+Packaged: 2020-12-05 01:03:53 UTC; mauro
 Author: Mauro Lepore [aut, ctr, cre] (<https://orcid.org/0000-0002-1986-7988>),
   Gabriel Arellano [aut, rev],
   Richard Condit [aut],
@@ -85,4 +85,4 @@ Author: Mauro Lepore [aut, ctr, cre] (<https://orcid.org/0000-0002-1986-7988>),
   CTFS-ForestGEO [cph]
 Maintainer: Mauro Lepore <maurolepore@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-03-23 14:50:05 UTC
+Date/Publication: 2020-12-05 05:40:12 UTC
